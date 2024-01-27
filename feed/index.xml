@@ -9,10 +9,10 @@
 
 <channel>
 	<title>YLS Dreams</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://ylsdreams.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ylsdreams.com/</link>
 	<description>Your Living Space in Jhansi</description>
-	<lastBuildDate>Fri, 26 Jan 2024 15:29:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jan 2024 08:26:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/06/cropped-yls-logo-32x32.webp</url>
+	<url>https://ylsdreams.com/wp-content/uploads/2023/06/cropped-yls-logo-32x32.webp</url>
 	<title>YLS Dreams</title>
-	<link>/</link>
+	<link>https://ylsdreams.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
