@@ -1,0 +1,50 @@
+.elementor-213 .elementor-element.elementor-element-2f3e7d54{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--gap:0px 0px;--background-transition:0.3s;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-213 .elementor-element.elementor-element-5daff5bd{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-213 .elementor-element.elementor-element-5daff5bd.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-213 .elementor-element.elementor-element-4ef68bda .elementor-heading-title{color:var( --e-global-color-astglobalcolor2 );}.elementor-213 .elementor-element.elementor-element-a084edb{color:#000000;font-family:"Mulish", Sans-serif;font-weight:600;}.elementor-213 .elementor-element.elementor-element-150c955a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--padding-block-start:0px;--padding-block-end:0px;--padding-inline-start:0px;--padding-inline-end:0px;}.elementor-213 .elementor-element.elementor-element-150c955a:not(.elementor-motion-effects-element-type-background), .elementor-213 .elementor-element.elementor-element-150c955a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-astglobalcolor2 );}.elementor-213 .elementor-element.elementor-element-150c955a, .elementor-213 .elementor-element.elementor-element-150c955a::before{--border-transition:0.3s;}@media(max-width:1024px){.elementor-213 .elementor-element.elementor-element-2f3e7d54{--flex-direction:column-reverse;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;}.elementor-213 .elementor-element.elementor-element-a084edb{columns:2;}}@media(max-width:767px){.elementor-213 .elementor-element.elementor-element-2f3e7d54{--flex-direction:column-reverse;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;}.elementor-213 .elementor-element.elementor-element-a084edb{columns:1;}}@media(min-width:768px){.elementor-213 .elementor-element.elementor-element-5daff5bd{--width:25%;}.elementor-213 .elementor-element.elementor-element-150c955a{--width:75%;}}@media(max-width:1024px) and (min-width:768px){.elementor-213 .elementor-element.elementor-element-5daff5bd{--width:100%;}.elementor-213 .elementor-element.elementor-element-150c955a{--width:100%;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://ylsdreams.com/wp-content/uploads/Mulish-Regular-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://ylsdreams.com/wp-content/uploads/Mulish-Regular-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://ylsdreams.com/wp-content/uploads/Mulish-Medium-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://ylsdreams.com/wp-content/uploads/Mulish-SemiBold-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://ylsdreams.com/wp-content/uploads/Mulish-Bold-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://ylsdreams.com/wp-content/uploads/Mulish-ExtraBold-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mulish';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://ylsdreams.com/wp-content/uploads/Mulish-Black-1.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
